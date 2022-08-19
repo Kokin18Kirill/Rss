@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Setting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AddressRss>
+    <string>https://habr.com/rss/interesting/</string>
+    <string />
+  </AddressRss>
+  <TimeUpdata>5</TimeUpdata>
+</Setting>

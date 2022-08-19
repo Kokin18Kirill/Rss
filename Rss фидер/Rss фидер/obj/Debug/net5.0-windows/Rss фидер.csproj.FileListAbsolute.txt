@@ -1,0 +1,22 @@
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\bin\Debug\net5.0-windows\Rss фидер.exe
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\bin\Debug\net5.0-windows\Rss фидер.deps.json
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\bin\Debug\net5.0-windows\Rss фидер.runtimeconfig.json
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\bin\Debug\net5.0-windows\Rss фидер.runtimeconfig.dev.json
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\bin\Debug\net5.0-windows\Rss фидер.dll
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\bin\Debug\net5.0-windows\ref\Rss фидер.dll
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\bin\Debug\net5.0-windows\Rss фидер.pdb
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\Rss фидер_MarkupCompile.cache
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\Rss фидер_MarkupCompile.lref
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\Rss фидер.g.resources
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\Rss фидер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\Rss фидер.AssemblyInfoInputs.cache
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\Rss фидер.AssemblyInfo.cs
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\Rss фидер.csproj.CoreCompileInputs.cache
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\Rss фидер.dll
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\ref\Rss фидер.dll
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\Rss фидер.pdb
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\Rss фидер.genruntimeconfig.cache
+C:\Users\Va-Bank\Desktop\тестовое задание на стажеровку\Задание 2\Rss фидер\Rss фидер\obj\Debug\net5.0-windows\Rss фидер.csproj.AssemblyReference.cache
